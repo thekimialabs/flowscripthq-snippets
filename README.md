@@ -31,6 +31,7 @@ Every folder matches one tutorial: the code that the tutorial builds, plus a lin
 | 21 | [Power Automate: Send Email When SharePoint Status Changes to Approved](https://flowscripthq.blogspot.com/2026/10/power-automate-send-email-when.html) | [snippets.md](21-power-automate-send-email-when/) |
 | 22 | [Apps Script: Combine Multiple Sheets Into One Sheet (Master Sheet With a Source Column)](https://flowscripthq.blogspot.com/2026/10/apps-script-combine-multiple-sheets.html) | [Code.gs](22-apps-script-combine-multiple-sheets/) |
 | 23 | [Power Automate Approval Reminder: Remind Without Spam](https://flowscripthq.blogspot.com/2026/10/power-automate-approval-reminder-remind.html) | [snippets.md](23-power-automate-approval-reminder-remind/) |
+| 24 | [Power Automate: Save Microsoft Forms Responses and Attachments to a SharePoint List](https://flowscripthq.blogspot.com/2026/10/power-automate-save-microsoft-forms.html) | [snippets.md](24-power-automate-save-microsoft-forms/) |
 
 ## Using the Apps Script code
 
