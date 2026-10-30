@@ -33,6 +33,7 @@ Every folder matches one tutorial: the code that the tutorial builds, plus a lin
 | 23 | [Power Automate Approval Reminder: Remind Without Spam](https://flowscripthq.blogspot.com/2026/10/power-automate-approval-reminder-remind.html) | [snippets.md](23-power-automate-approval-reminder-remind/) |
 | 24 | [Power Automate: Save Microsoft Forms Responses and Attachments to a SharePoint List](https://flowscripthq.blogspot.com/2026/10/power-automate-save-microsoft-forms.html) | [snippets.md](24-power-automate-save-microsoft-forms/) |
 | 25 | [Power Automate: Send a Weekly Email of SharePoint List Items](https://flowscripthq.blogspot.com/2026/10/power-automate-send-weekly-email-of.html) | [snippets.md](25-power-automate-send-weekly-email-of/) |
+| 26 | [Power Automate Error Handling: Configure Run After So a Failed Flow Alerts You](https://flowscripthq.blogspot.com/2026/10/power-automate-error-handling-configure.html) | [snippets.md](26-power-automate-error-handling/) |
 
 ## Using the Apps Script code
 
