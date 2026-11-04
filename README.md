@@ -35,6 +35,7 @@ Every folder matches one tutorial: the code that the tutorial builds, plus a lin
 | 25 | [Power Automate: Send a Weekly Email of SharePoint List Items](https://flowscripthq.blogspot.com/2026/10/power-automate-send-weekly-email-of.html) | [snippets.md](25-power-automate-send-weekly-email-of/) |
 | 26 | [Power Automate Error Handling: Configure Run After So a Failed Flow Alerts You](https://flowscripthq.blogspot.com/2026/10/power-automate-error-handling-configure.html) | [snippets.md](26-power-automate-error-handling/) |
 | 27 | [Power Automate Get Items Limit: How to Get More Than 5,000 SharePoint Items (Pagination, Top Count, ID Batching)](https://flowscripthq.blogspot.com/2026/11/power-automate-get-items-limit-how-to.html) | [snippets.md](27-power-automate-get-items-limit-how-to/) |
+| 28 | [Google Apps Script: Move a Row to Another Sheet When Status Changes to Done](https://flowscripthq.blogspot.com/2026/11/google-apps-script-move-row-to-another.html) | [Code.gs, snippets.md](28-google-apps-script-move-row-to-another/) |
 
 ## Using the Apps Script code
 
