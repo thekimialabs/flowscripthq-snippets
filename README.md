@@ -38,6 +38,8 @@ Every folder matches one tutorial: the code that the tutorial builds, plus a lin
 | 28 | [Google Apps Script: Move a Row to Another Sheet When Status Changes to Done](https://flowscripthq.blogspot.com/2026/11/google-apps-script-move-row-to-another.html) | [Code.gs, snippets.md](28-google-apps-script-move-row-to-another/) |
 | 29 | [Power Automate: Create a SharePoint List Item from an Outlook Email](https://flowscripthq.blogspot.com/2026/11/power-automate-create-sharepoint-list.html) | [snippets.md](29-power-automate-create-sharepoint-list/) |
 | 30 | [Power Automate: Create Planner Task from SharePoint List Item](https://flowscripthq.blogspot.com/2026/11/power-automate-create-planner-task-from.html) | [snippets.md](30-power-automate-create-planner-task-from-sharepoint/) |
+| 31 | [Power Automate: Send an Email When a SharePoint Item Is Overdue](https://flowscripthq.blogspot.com/2026/11/power-automate-send-email-when.html) | [snippets.md](31-power-automate-send-email-when-sharepoint-overdue/) |
+| 32 | [Apps Script: Create Google Calendar Events from Google Sheets](https://flowscripthq.blogspot.com/2026/11/apps-script-create-google-calendar.html) | [Code.gs, snippets.md](32-apps-script-create-google-calendar-events-from-sheets/) |
 
 ## Using the Apps Script code
 
